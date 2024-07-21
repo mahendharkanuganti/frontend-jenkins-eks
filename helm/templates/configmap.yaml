@@ -1,5 +1,4 @@
-{{- /*
- apiVersion: v1
+apiVersion: v1
 kind: ConfigMap
 metadata:
   name: frontend
@@ -91,5 +90,4 @@ data:
 
         }
 
-    } 
-*/ -}}
+    }
