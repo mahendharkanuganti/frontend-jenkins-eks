@@ -53,7 +53,7 @@ pipeline {
                     helm install frontend .
                 """
             }
-
+        }
         /* stage('Nexus Artifact Uploader') {
             steps {
                 script{
